@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baizid-B</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ95mo-bmHXy5DzunxDqN2IEciSgxhk2G_l8Q&s" alt="baizid-b" /> </p>
+<p align="left"> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230719122607/github3.gif" alt="baizid-b" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baizid-b" alt="baizid-b" /></a> </p>
 
