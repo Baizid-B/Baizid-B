@@ -1,20 +1,94 @@
-<h1 align="center">Hi 👋, I'm Baizid-B</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+![logo](./assets/forest.png)
+<img align="left" src="./assets/gift.gif" width="21%" style="display:inline;"><img align="right" src="./assets/gift.gif" width="21%" style="display:inline;">
 
-<p align="left"> <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="baizid-b"/> </p>
+<h1 align="center">Hi 👋, I'm Parvez Ahmed Prottoy</h1>
+<h3 align="center">A passionate Programmer from Bangladesh</h3>
+<p align="center">I like experimenting with new technologies and building small projects, and love coding.✨</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baizid-b" alt="baizid-b" /></a> </p>
+<br><br>
+
+<img align="right" alt="Coding" width="340" height="220" src="./assets/coding.gif">
+<br><br>
+
+<!-- - 🔭 I’m currently working on UA IT(JKH IT) -->
+
+- 🌱 I’m currently learning Full Stack Web Development
+
+- 💬 Ask me about JavaScript and NodeJS
+
+- 📫 How to reach me parvezahmedprottoy.web@gmail.com
+
+- ⚡️ Fun fact I think I'm funny
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/baizid-bostami-36962b292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baizid-bostami-36962b292" height="30" width="40" /></a>
+<a style="margin-right:10px" href="https://www.linkedin.com/in/parvez-ahmed-prottoy-094048272/" target="blank"><img align="center" src="./assets/linkedin.png" alt="parvez-ahmed-prottoy" width="40" /></a>
+<a style="margin-right:10px" href="https://www.facebook.com/profile.php?id=100091923693667" target="blank"><img align="center" src="./assets/facebook.png" alt="parvez-ahmed-prottoy" width="40" /></a>
+<a href="https://github.com/parvez-ahmed-prottoy-web" target="blank"><img align="center" src="./assets/social.png" alt="supun.nanayakkaraii" width="40" /></a>
 </p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baizid-b&show_icons=true&locale=en&layout=compact" alt="baizid-b" /></p>
+<div align="left">
+<img alt="postman" title="postman" hspace="5" src="./assets/skills/icons8-postman-is-the-only-complete-api-development-environment-48.png" />
+<img alt="rest-api" title="rest-api" hspace="5" src="./assets/skills/icons8-rest-api-50.png" />
+<img alt="mongodb" title="mongodb" hspace="5" src="./assets/skills/icons8-mongodb-48.png" />
+<img alt="express" title="expressjs" hspace="5" src="./assets/skills/icons8-express-js-48.png" />
+<img alt="nodejs" title="nodejs" hspace="5" src="./assets/skills/icons8-nodejs-48 (1).png" />
+<img alt="github" title="github" hspace="5" src="./assets/skills/icons8-github-48.png" />
+<img alt="git" title="git" hspace="5" src="./assets/skills/icons8-git-48.png" />
+<img alt="javaScript" title="javaScript" hspace="5" src="./assets/skills/icons8-js-48.png" />
+<img alt="css3" title="css3" hspace="5" src="./assets/skills/icons8-css-48.png" />
+<img alt="html5" title="html" hspace="5" src="./assets/skills/icons8-html-48.png" />
+<img alt="visual-studio-code" title="visual" hspace="5" src="./assets/skills/icons8-visual-studio-code-2019-48.png" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baizid-b&show_icons=true&locale=en" alt="baizid-b" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baizid-b&" alt="baizid-b" /></p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="left">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez-prottoy)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez-prottoy&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=parvez-prottoy&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=parvez-prottoy&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages:</h3>
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Beginner
+- 🇮🇳 Hindi : Intermediate
+  <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Sports / Game / Activities / Hobby:</h3>
+
+- 🏏 Cricket, 🏸 Badminton
+- ✈️ Travelling
+  <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+All rights reserved by Parvez Ahmed Prottoy @2024
