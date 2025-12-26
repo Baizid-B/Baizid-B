@@ -1,7 +1,7 @@
 ![logo](./assets/forest.png)
 <img align="left" src="./assets/gift.gif" width="21%" style="display:inline;"><img align="right" src="./assets/gift.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Parvez Ahmed Prottoy</h1>
+<h1 align="center">Hi 👋, I'm Md.Baizid Bostami</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 <p align="center">I like experimenting with new technologies and building small projects, and love coding.✨</p>
 
@@ -12,11 +12,11 @@
 
 <!-- - 🔭 I’m currently working on UA IT(JKH IT) -->
 
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently learning Front-End Development
 
 - 💬 Ask me about JavaScript and NodeJS
 
-- 📫 How to reach me parvezahmedprottoy.web@gmail.com
+- 📫 How to reach me mdbaizidbostami196@gmail.com
 
 - ⚡️ Fun fact I think I'm funny
 
