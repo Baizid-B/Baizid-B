@@ -1,94 +1,64 @@
-![logo](./assets/forest.png)
-<img align="left" src="./assets/gift.gif" width="21%" style="display:inline;"><img align="right" src="./assets/gift.gif" width="21%" style="display:inline;">
+![logo](https://i.ibb.co/pv7c7Sc6/44fed446-16df-4616-baaf-972c88e67875.png)
+<br/>
+# Hi there, I'm Baizid Bostami👨‍💻
 
-<h1 align="center">Hi 👋, I'm Md.Baizid Bostami</h1>
-<h3 align="center">A passionate Programmer from Bangladesh</h3>
-<p align="center">I like experimenting with new technologies and building small projects, and love coding.✨</p>
+### Welcome to my GitHub World👋
 
-<br><br>
+## I'm Proficient FRONT-END DEVELOPER. I strive to create simple, original, and impactful User Experiences.🚀    
 
-<img align="right" alt="Coding" width="340" height="220" src="./assets/coding.gif">
-<br><br>
 
-<!-- - 🔭 I’m currently working on UA IT(JKH IT) -->
+- 💻 I'm passionate about what I learn and apply them into real life.
+- ⌚️ Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
+- 👯 I’m looking to collaborate on any kind of interesting projects.
+- 📫 How to reach me: 
 
-- 🌱 I’m currently learning Front-End Development
+- 🌐 Fun fact: I love to explore the world.
 
-- 💬 Ask me about JavaScript and NodeJS
+### 🤝 Connect with me:
 
-- 📫 How to reach me mdbaizidbostami196@gmail.com
-
-- ⚡️ Fun fact I think I'm funny
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a style="margin-right:10px" href="https://www.linkedin.com/in/parvez-ahmed-prottoy-094048272/" target="blank"><img align="center" src="./assets/linkedin.png" alt="parvez-ahmed-prottoy" width="40" /></a>
-<a style="margin-right:10px" href="https://www.facebook.com/profile.php?id=100091923693667" target="blank"><img align="center" src="./assets/facebook.png" alt="parvez-ahmed-prottoy" width="40" /></a>
-<a href="https://github.com/parvez-ahmed-prottoy-web" target="blank"><img align="center" src="./assets/social.png" alt="supun.nanayakkaraii" width="40" /></a>
-</p>
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-<div align="left">
-<img alt="postman" title="postman" hspace="5" src="./assets/skills/icons8-postman-is-the-only-complete-api-development-environment-48.png" />
-<img alt="rest-api" title="rest-api" hspace="5" src="./assets/skills/icons8-rest-api-50.png" />
-<img alt="mongodb" title="mongodb" hspace="5" src="./assets/skills/icons8-mongodb-48.png" />
-<img alt="express" title="expressjs" hspace="5" src="./assets/skills/icons8-express-js-48.png" />
-<img alt="nodejs" title="nodejs" hspace="5" src="./assets/skills/icons8-nodejs-48 (1).png" />
-<img alt="github" title="github" hspace="5" src="./assets/skills/icons8-github-48.png" />
-<img alt="git" title="git" hspace="5" src="./assets/skills/icons8-git-48.png" />
-<img alt="javaScript" title="javaScript" hspace="5" src="./assets/skills/icons8-js-48.png" />
-<img alt="css3" title="css3" hspace="5" src="./assets/skills/icons8-css-48.png" />
-<img alt="html5" title="html" hspace="5" src="./assets/skills/icons8-html-48.png" />
-<img alt="visual-studio-code" title="visual" hspace="5" src="./assets/skills/icons8-visual-studio-code-2019-48.png" />
-</div>
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baizid-bostami-36962b292/)  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/baizidbr/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdbaizidbostami196@gmail.com)
+<br/>
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## Skills
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="left">
+#### Languages & Frameworks
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez-prottoy)](https://github.com/anuraghazra/github-readme-stats)
+[![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](#)
+<!-- [![Typescript Badge](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](#) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez-prottoy&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=parvez-prottoy&theme=midnight-purple)](https://git.io/streak-stats)
+[![Ant-Design Badge](https://img.shields.io/badge/Ant%20Design-007FFF?style=for-the-badge&logo=antdesign&logoColor=ff0000)](#)
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-29A5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
+<!-- [![Chakra-UI Badge](https://img.shields.io/badge/Chakra%20UI-007?style=for-the-badge&logo=chakraui&logoColor=4FD1C5)](#) -->
 
-</div>
 
-<br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
+#### Tools & Platforms
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=parvez-prottoy&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+[![VS Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Github Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#)
+[![Chrome Dev Tools Badge](https://img.shields.io/badge/Chrome_Dev_Tools-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](#)
+[![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](#)
+[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
+[![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<!-- [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white)](#) -->
+<!-- [![Heroku Badge](https://img.shields.io/badge/Heroku-79589F?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
+[![Nx Badge](https://img.shields.io/badge/Nx-143157?style=for-the-badge&logo=nx&logoColor=white)](#) -->
+<br />
+<br />
+<br />
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages:</h3>
 
-- 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Beginner
-- 🇮🇳 Hindi : Intermediate
-  <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Sports / Game / Activities / Hobby:</h3>
-
-- 🏏 Cricket, 🏸 Badminton
-- ✈️ Travelling
-  <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-All rights reserved by Parvez Ahmed Prottoy @2024
